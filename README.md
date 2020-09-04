@@ -1,2 +1,2 @@
 # proffy_nlw
-Proffy criado durante Next Level Week da Rocketseat
+Aplicação Proffy criado durante o evento Next Level Week da Rocketseat
